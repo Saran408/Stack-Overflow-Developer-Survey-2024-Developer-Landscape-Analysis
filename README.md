@@ -57,11 +57,11 @@ Due to GitHub file size limits, download the required dataset files via the foll
 
 
 - **Top 10 Developers**  
-  ![Remote Work](![image](https://github.com/user-attachments/assets/46c38ab3-28bb-414f-8894-e1171d124094)
-)
+ ![image](https://github.com/user-attachments/assets/46c38ab3-28bb-414f-8894-e1171d124094)
+
 
 - **Learning Platforms**  
-  ![Learning](![image](https://github.com/user-attachments/assets/76a582af-847a-4a48-9b20-752e9f2dc32c))
+ ![image](https://github.com/user-attachments/assets/76a582af-847a-4a48-9b20-752e9f2dc32c)
 
 ---
 
