@@ -1,0 +1,20 @@
+Column,QuestionText
+Country,Where do you live? *
+Age,What is your age?*
+EdLevel,Which of the following best describes the highest level of formal education that you’ve completed? *
+RemoteWork,Which best describes your current work situation?
+OrgSize,"Approximately how many people are employed by the company or organization you currently work for?  This should only include your primary company, and not the entire holding or parent company if that applies."
+Industry,What industry is the company you work for in?
+LearnCode,How do you learn to code? Select all that apply.
+YearsCode,"Including any education, how many years have you been coding in total?"
+YearsCodePro,"NOT including education, how many years have you coded professionally (as a part of your work)?"
+TechDoc,What is the source of the technical documentation you use most often to learn to code?  Select all that apply.
+CodingActivities,Which of the following best describes the code you write outside of work? Select all that apply.
+SOVisitFreq,How frequently would you say you visit Stack Overflow?
+ProfessionalTech,My company has:
+Employment,Which of the following best describes your current employment status? Select all that apply.*
+DevType,"Which of the following describes your current job, the one you do most of the time? Please select only one."
+WorkExp,How many years of working experience do you have?
+JobSat,How satisfied are you in your current professional developer role?
+MainBranch,"Which of the following options best describes you today? For the purpose of this survey, a developer is ""someone who writes code"".*"
+Check,Just checking to make sure you are paying attention to the survey questions. Select ‘Apples’ from the list and you can get back to the survey.*

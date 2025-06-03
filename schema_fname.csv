@@ -1,0 +1,88 @@
+Column,QuestionText
+MainBranch,"Which of the following options best describes you today? For the purpose of this survey, a developer is ""someone who writes code"".*"
+Age,What is your age?*
+Employment,Which of the following best describes your current employment status? Select all that apply.*
+RemoteWork,Which best describes your current work situation?
+Check,Just checking to make sure you are paying attention to the survey questions. Select ‘Apples’ from the list and you can get back to the survey.*<br><br>
+CodingActivities,Which of the following best describes the code you write outside of work? Select all that apply.
+EdLevel,Which of the following best describes the highest level of formal education that you’ve completed? *
+LearnCode,How do you learn to code? Select all that apply.
+LearnCodeOnline,What online resources do you use to learn to code? Select all that apply.
+TechDoc,What is the source of the technical documentation you use most often to learn to code?  Select all that apply.
+YearsCode,"Including any education, how many years have you been coding in total?"
+YearsCodePro,"NOT including education, how many years have you coded professionally (as a part of your work)?"
+DevType,"Which of the following describes your current job, the one you do most of the time? Please select only one."
+OrgSize,"Approximately how many people are employed by the company or organization you currently work for?  This should only include your primary company, and not the entire holding or parent company if that applies."
+PurchaseInfluence,"What level of influence do you, personally, have over new technology purchases at your organization?"
+BuyNewTool,"When buying a new tool or software, how do you discover and research available solutions? Select all that apply."
+BuildvsBuy,"When asked to provide a recommendation for solving a problem at work with a new tool or software, what has been your most recent choice of the following?"
+TechEndorse,What product feature do you care about most when endorsing a technology purchase? Select all that apply.
+Country,"Where do you live? <span style=""font-weight: bolder;"">*</span>"
+Currency,"Which currency do you use day-to-day? If your answer is complicated, please pick the one you're most comfortable estimating in. *"
+CompTotal,"What is your current total <b>annual</b> compensation (salary, bonuses, and perks, before taxes and deductions)? Please enter a whole number in the box below, without any punctuation.  If you are paid hourly, please estimate an equivalent yearly salary. If you prefer not to answer, please leave the box empty. "
+Language,"Which <b>programming, scripting, and markup languages</b> have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the language and want to continue to do so, please check both boxes in that row.)"
+Database,"Which <b>database environments </b>have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the database and want to continue to do so, please check both boxes in that row.)"
+Platform,"Which <b>cloud platforms</b> have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the platform and want to continue to do so, please check both boxes in that row.)"
+Webframe,"Which <b>web frameworks and web technologies</b> have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the framework and want to continue to do so, please check both boxes in that row.)"
+Embedded,"Which <b>embedded systems and technologies</b> have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the framework and want to continue to do so, please check both boxes in that row.)"
+MiscTech,"Which <b>other frameworks and libraries</b> have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the framework and want to continue to do so, please check both boxes in that row.)"
+ToolsTech,"Which <b>developer </b><strong>tools for compiling, building and testing</strong> have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the technology and want to continue to do so, please check both boxes in that row.)"
+NEWCollabTools,"Which <strong>development environments</strong> did you use regularly over the past year, and which do you want to work with over the next year? Please check all that apply."
+OpSys,What is the primary <b>operating system</b> in which you work? 
+OfficeStackAsync,"Which <b>collaborative work management and/or code documentation tools</b> did you use regularly over the past year, and which do you want to work with over the next year? Select all that apply"
+OfficeStackSync,"Which <b>communication tools</b> did you use regularly over the past year, and which do you want to work with over the next year? Select all that apply"
+AISearchDev,"Which <b>AI-powered search and developer tools</b> did you use regularly over the past year, and which do you want to work with over the next year? Select all that apply."
+NEWSOSites,Which of the following Stack Overflow sites have you visited? Select all that apply. *
+SOVisitFreq,How frequently would you say you visit Stack Overflow?
+SOAccount,Do you have a Stack Overflow account?
+SOPartFreq,"How frequently would you say you participate in Q&amp;A on Stack Overflow? By participate we mean ask, answer, vote for, or comment on questions."
+SOHow,How do you use Stack Overflow?  Select all that apply.
+SOComm,Do you consider yourself a member of the Stack Overflow community?
+AISelect,Do you currently use AI tools in your development process? *
+AISent,How favorable is your stance on using AI tools as part of your development workflow?
+AIBen,"For the AI tools you use as part of your development workflow, what are the MOST important benefits you are hoping to achieve? Please check all that apply."
+AIAcc,How much do you trust the accuracy of the output from AI tools as part of your development workflow?
+AIComplex,How well do the AI tools you use in your development workflow handle complex tasks?
+AITool,Which parts of your development workflow are you currently using AI tools for and which are you interested in using AI tools for over the next year?  Please select all that apply.
+AINext,"Thinking about how your job and process changes over time, how integrated in your workflow do you anticipate AI tools you are currently using will be 1 year from now?"
+AIThreat,Do you believe AI is a threat to your current job?
+AIEthics,Which AI ethical responsibilities are most important to you?  Select all that apply.
+AIChallenges,What are the challenges to your company/whole team using AI code assistants or GenAI tools? Select all that apply.
+TBranch,"<span style=""font-size:16px;"">Would you like to participate in the Professional Developer Series? *</span>"
+ICorPM,Are you an individual contributor or people manager?
+WorkExp,How many years of working experience do you have?
+Knowledge,Please rate your level of agreement with the following statement:
+Frequency,How frequently do you experience each of the following?
+TimeSearching,"On an average day, how much time do you typically spend searching for answers or solutions to problems you encounter at work? (This includes time spent searching on your own, asking a colleague, and waiting for a response)."
+TimeAnswering,"On an average day, how much time do you typically spend answering questions you get asked at work?"
+Frustration,Which of these company challenges causes you the most frustration? Select all that apply.
+ProfessionalTech,My company has:
+ProfessionalCloud,"At my company, our applications, databases and services are hosted:"
+ProfessionalQuestion,"When you have a technical question at work, where do you first go to get an answer?"
+Industry,What industry is the company you work for in?
+JobSat,How satisfied are you in your current professional developer role?
+JobSatPoints,Assign points to the following attributes of your job according to those that contribute the most to your satisfaction out of 100 total points:
+SOTeamsUsage,Does your team use Stack Overflow for Teams?
+SurveyLength,How do you feel about the length of the survey this year?
+SurveyEase,How easy or difficult was this survey to complete?
+Knowledge_1,I have interactions with people outside of my immediate team.
+Knowledge_2,"Knowledge silos prevent me from getting ideas across the organization (i.e., one individual or team has information that isn't shared with others)"
+Knowledge_3,I can find up-to-date information within my organization to help me do my job.
+Knowledge_4,I am able to quickly find answers to my questions with existing tools and resources.
+Knowledge_5,I know which system or resource to use to find information and answers to questions I have.
+Knowledge_6,I often find myself answering questions that I’ve already answered before.
+Knowledge_7,Waiting on answers to questions often causes interruptions and disrupts my workflow.
+Knowledge_8,I feel like I have the tools and/or resources to quickly understand and work on any area of my company's code/system/platform.
+Knowledge_9,I have asked my employer to reimburse me for tools or a product that helps me do my job better or faster
+Frequency_1,Needing help from people outside of your immediate team?
+Frequency_2,Interacting with people outside of your immediate team?
+Frequency_3,Encountering knowledge silos (where one individual or team has information that's not shared or distributed with other individuals or teams) at work?
+JobSatPoints_1,Driving strategy for my team
+JobSatPoints_4,Contributing to open source
+JobSatPoints_5,Securing data and environments
+JobSatPoints_6,Improving quality of code and developer environments
+JobSatPoints_7,"Learning and using new technology, including platforms, APIs and libraries"
+JobSatPoints_8,"Designing and building environments, databases, and all things architecture"
+JobSatPoints_9,"Being a power user of a tool, developer language or process that others come to for answers and guidance about"
+JobSatPoints_10,Working with new and/or top-quality hardware
+JobSatPoints_11,A well-staffed/sourced internal network that makes observability easy so network or runtime issues are addressed and fixed easily
